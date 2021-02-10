@@ -2,6 +2,17 @@ body {
   background: white;
 }
 
+#search-pane {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo {
+
+}
+
 #search-box {
   width: 20vw;
   height: 2vh;
