@@ -231,3 +231,29 @@ nav ul li {
   border: 1px solid #4d90fe;
   outline: none;
 }
+
+footer {
+  background: #f2f2f2;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.footer-tab {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-tab a {
+  color: #70757a;
+  display: block;
+  padding: 15px;
+  white-space: nowrap;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: arial,sans-serif;
+  line-height: normal;
+}
