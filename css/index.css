@@ -263,3 +263,7 @@ footer {
   font-family: arial,sans-serif;
   line-height: normal;
 }
+
+.footer-tab a:hover {
+  text-decoration: underline;
+}
