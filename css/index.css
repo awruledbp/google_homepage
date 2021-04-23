@@ -193,6 +193,10 @@ nav ul li {
   border: none;
 }
 
+#search-box-inner-input input:focus {
+  outline: none;
+}
+
 #search-box-inner-mic-icon {
   width: 24px;
   display: flex;
